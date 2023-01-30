@@ -24,13 +24,13 @@
   border: 0;
   outline: 0;
   height: 60px;
-  width: 100px;
+  width: 60px;
   box-shadow: -8px -8px 15px rgba(255, 255, 255,0.1), 5px 5px 15px rgba(0 , 0, 0, 0.2);
   background: transparent; 
   font-size: 20px;
   color: #fff;
   cursor: pointer;
-  margin: 20px 0;
+  margin: 20px 10px;
 }
 form .display{
 display: flex;
@@ -43,6 +43,7 @@ text-align: right;
 flex: 1;
 font-size: 45px;
 box-shadow: none;
+
 }
 
 form input.equal{
